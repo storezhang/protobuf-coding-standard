@@ -1,2 +1,2 @@
-# -protobuf-coding-standard-
+# protobuf-coding-standard
 Protobuf代码规范
